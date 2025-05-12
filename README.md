@@ -19,7 +19,6 @@ PROJECT
         └── meshdatav3_pc_fps
         └── meshdatav3_scaled
         └── textures
-        └── xarm6
         └── urdf
     └── DexSinGrasp
         └── results
