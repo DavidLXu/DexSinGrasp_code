@@ -1,5 +1,5 @@
 # <p align="center"> DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments </p>
-### <p align="center"> [Arxiv](https://arxiv.org/abs/2504.04516) | [Website](https://nus-lins-lab.github.io/dexsingweb/) </p>
+### <p align="center">  [Project Website](https://nus-lins-lab.github.io/dexsingweb/) </p>
 
 # I. Installation
 
